@@ -1,0 +1,9 @@
+
+# This is shown to players who try connecting but don't have the server priv
+lockout.missing_server_text (Missing 'server' Priviledge Text) string "Server is closed right now, try again a bit later"
+
+# This is shown to players who try connecting but are not in the whitelist
+lockout.whitelisted_text (Player isn't on the Whitelist Text) string "You don't appear to be allowed on this server at the moment."
+
+# This is shown to players who have connected but typed the wrong password as the server password
+lockout.invalid_server_password_text (Invalid Server Password Text) string "Wrong Server Password, Try that again."
